@@ -1,0 +1,9 @@
+D:\Generate_Barcode\Generate_Barcode\bin\Debug\Generate_Barcode.exe.config
+D:\Generate_Barcode\Generate_Barcode\obj\Debug\Generate_Barcode.csprojResolveAssemblyReference.cache
+D:\Generate_Barcode\Generate_Barcode\obj\Debug\Generate_Barcode.Form1.resources
+D:\Generate_Barcode\Generate_Barcode\obj\Debug\Generate_Barcode.Properties.Resources.resources
+D:\Generate_Barcode\Generate_Barcode\obj\Debug\Generate_Barcode.csproj.GenerateResource.Cache
+D:\Generate_Barcode\Generate_Barcode\bin\Debug\Generate_Barcode.exe
+D:\Generate_Barcode\Generate_Barcode\bin\Debug\Generate_Barcode.pdb
+D:\Generate_Barcode\Generate_Barcode\obj\Debug\Generate_Barcode.exe
+D:\Generate_Barcode\Generate_Barcode\obj\Debug\Generate_Barcode.pdb
